@@ -14,6 +14,5 @@ python -m pip install "pymongo[srv]"
 
 Sample Flask Application - CRUD in MngoDB
 Using Pip to Freeze Python Dependencies
-install : minikube, kubectl, helm, docker-desktop
-copy baseImage from Dockurhub
+
 
