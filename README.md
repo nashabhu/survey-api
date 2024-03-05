@@ -17,10 +17,3 @@ Using Pip to Freeze Python Dependencies
 install : minikube, kubectl, helm, docker-desktop
 copy baseImage from Dockurhub
 
-Building the docker image using Dockerfile
-docker build -t webapp:1.0 .
-survey-api % docker run -d -p 80:5000 --name api webapp:1.0
-
-Writing Docker Compose file
-Writing Kubernetes Manifest files for the application
-Creating Helm Chart
